@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ecomm</string>
+    
+    <string name="lbl_home">Home</string>
+    <string name="lbl_shop">Shop</string>
+    <string name="lbl_cart">Cart</string>
+    <string name="lbl_testimonials">Testimonials</string>
+    <string name="lbl_more">More</string>
+    
+    <string name="lbl_home_productcategories">Product Categories</string>
+    <string name="lbl_home_enginecare">Engine Care</string>
+    <string name="lbl_home_caraccessories">Car Accessories</string>
+    <string name="lbl_home_carcare">Car Care</string>
+    
+    <string name="action_settings">Settings</string>
+
+</resources>
